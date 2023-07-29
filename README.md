@@ -1,7 +1,7 @@
-[![MasterHead]([https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2Fsanfrancisco%2Fcomments%2Fibfj70%2Fincredible_view_of_the_san_francisco_skyline%2F&psig=AOvVaw23WjK5wNA--UjdwJsT5aey&ust=1690706840748000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqGAoTCLjKqvfDs4ADFQAAAAAdAAAAABCEBA](https://i.redd.it/vuhfq9j5rkh51.jpg))]
+[![MasterHead](https://i.redd.it/vuhfq9j5rkh51.jpg)](https://i.redd.it/vuhfq9j5rkh51.jpg)
 <h1 align="center">Hi 👋, I'm Muskan</h1>
 <h3 align="center">Unraveling the Magic of Code, One Line at a Time.</h3>
-(img align="right" alt="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fmelinachenani&psig=AOvVaw3pbfXdJ4j1mcUr0rwYj8Hl&ust=1690708213803000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNjbqIbJs4ADFQAAAAAdAAAAABAh](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.behance.net%2Fgallery%2F116770475%2FAnimated-illustrations&psig=AOvVaw1M3YCgywO3bG2icdux3WJZ&ust=1690708441763000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJDQuvPJs4ADFQAAAAAdAAAAABAJ)")
+<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
 - 🔭 I’m currently working on **Visualizer**
 
