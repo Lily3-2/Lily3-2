@@ -3,7 +3,8 @@
 <h3 align="center">Unraveling the Magic of Code, One Line at a Time.</h3>
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
-- 🔭 I’m currently working on **Visualizer**
+- 🔭 I’m currently working on **Diagnosing Covid-19 By Analyzing Human
+Chest X-ray**
 
 - 🌱 I’m currently learning **MERN stack**
 
@@ -16,6 +17,10 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/muskan-sah-46ab25199/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muskan-sah-46ab25199/" height="30" width="40" /></a>
 <a href="https://dribbble.com/lily2-3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="lily2-3" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/lily3-2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lily3-2" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/muskansah_313" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Hackerrank" height="30" width="40" />
+</a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
